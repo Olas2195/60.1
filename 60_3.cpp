@@ -29,7 +29,7 @@ bool Collection::file_read() {
     int number;
     
 	if (!file.good()){ 
-       cout << "Pliku nie mo¿na otworzyæ!!";
+       cout << "Pliku nie moÂ¿na otworzyÃ¦!!";
        return false;
     }
 
